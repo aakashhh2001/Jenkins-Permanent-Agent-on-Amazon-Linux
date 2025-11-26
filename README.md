@@ -1,4 +1,4 @@
-# Jenkins Permanent Agent on Amazon Linux 2023 (Step-by-step)
+# Jenkins Permanent Agent on Amazon Linux
 
 This README documents, in precise detail, how to create a permanent Jenkins agent on an **Amazon Linux 2023 EC2** instance and connect it via the Jenkins GUI (Manage Jenkins → Nodes → New Node). The flow uses SSH authentication with an EC2 key pair and the Jenkins `SSH Username with private key` credentials provider.
 
